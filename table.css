@@ -1,0 +1,15 @@
+table,
+th,
+td {
+    border: 1px solid #FF4500;
+    background-color: #7FFFD4;
+    border-collapse: collapse;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+
+thead,
+tfoot {
+    border: 1px solid #FF00FF;
+    background-color: #FF00FF;
+}
